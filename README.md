@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://medusajs.com" target="_blank" rel="noopener">
-    <img alt="Medusa" src="/logos/maedusa_js.png" width="100" />
+    <img alt="Medusa" src="/logos/maedusa_js.png" width="120" />
   </a>
   <span>&nbsp;&nbsp;</span>
   <a href="https://medusajs.com" target="_blank" rel="noopener">
-    <img alt="Medusa" src="/logos/railway_app.png" width="100" />
+    <img alt="Medusa" src="/logos/railway_app.png" width="120" />
   </a>
 
 # Medusa + Railway Template
@@ -31,6 +31,8 @@ So there is no need to setup a database locally! 🎉
 <br />
 
 </div>
+
+<br />
 
 ## Environment variables
 
@@ -59,8 +61,6 @@ For local development `PORT` should be set to `9000`, unless you have changed th
 5. Choose the Variables tab.
 6. Set the `DATEBASE_URL` value by pasting in the URL.
 
-<br />
-
 ### Set the `REDIS_URL` variable with the Redis database url
 
 1. Click on the Redis card.
@@ -71,6 +71,8 @@ For local development `PORT` should be set to `9000`, unless you have changed th
 6. Set the `REDIS_URL` value by pasting in the URL.
 
 For the Medusa docs explaining this setup (without this template) see: <a href="https://docs.medusajs.com/deployments/server/deploying-on-railway" target="_blank" rel="noopener">https://docs.medusajs.com/deployments/server/deploying-on-railway</a>.
+
+<br />
 
 ## Links
 

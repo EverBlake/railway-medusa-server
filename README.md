@@ -24,7 +24,9 @@ Deploy your own Medusa server by clicking this button:
 This template will automatically build everything you need to get started:
 
 A Redis database ✅
+
 A PostgresSQL database ✅
+
 And a clone of the Medusa server ✅
 
 So there is no need to setup a database locally! 🎉

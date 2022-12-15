@@ -30,10 +30,11 @@ And a clone of the Medusa server ✅
 So there is no need to setup a database locally! 🎉
 <br />
 
-**Environment variables**
-When using this template you will be asked for the following environment variables:
+</div>
 
-<div width="200px">
+## Environment variables
+
+When using this template you will be asked for the following environment variables:
 
 ```EditorConfig
 PORT=9000
@@ -43,50 +44,45 @@ DATABASE_URL=changeme
 REDIS_URL=changeme
 ```
 
-</div>
-
 During setup on Railway these variables can be set to anything as above, then updated after install.
 
 For local development `PORT` should be set to `9000`, unless you have changed the default values.
 
 `DATABASE_URL` and `REDIS_URL` will then need to be updated to the database urls after setup is complete.
 
-<br />
+### Set the `DATABASE_URL` variable with the Postgres Connection url
 
-**_To set the `DATABASE_URL` variable with the Postgres Connection url:_**
-
-> 1. Click on the PostgreSQL card.
-> 2. Choose the Connect tab.
-> 3. Copy the Postgres Connection URL.
-> 4. Click on the GitHub repository’s card.
-> 5. Choose the Variables tab.
-> 6. Set the `DATEBASE_URL` value by pasting in the URL.
-
-**_Then to set the `REDIS_URL` variable with the Redis database url:_**
-
-> 1. Click on the Redis card.
-> 2. Choose the Connect tab.
-> 3. Copy the Redis Connection URL.
-> 4. Click on the GitHub repository’s card.
-> 5. Choose the Variables tab.
-> 6. Set the `REDIS_URL` value by pasting in the URL.
+1. Click on the PostgreSQL card.
+2. Choose the Connect tab.
+3. Copy the Postgres Connection URL.
+4. Click on the GitHub repository’s card.
+5. Choose the Variables tab.
+6. Set the `DATEBASE_URL` value by pasting in the URL.
 
 <br />
+
+### Set the `REDIS_URL` variable with the Redis database url
+
+1. Click on the Redis card.
+2. Choose the Connect tab.
+3. Copy the Redis Connection URL.
+4. Click on the GitHub repository’s card.
+5. Choose the Variables tab.
+6. Set the `REDIS_URL` value by pasting in the URL.
 
 For the Medusa docs explaining this setup (without this template) see: <a href="https://docs.medusajs.com/deployments/server/deploying-on-railway" target="_blank" rel="noopener">https://docs.medusajs.com/deployments/server/deploying-on-railway</a>.
 
-<br />
+## Links
 
-**_Note:_** _This repo only contains the backend server for Medusa, to create a full Medusa powered e-commerce store you will also need a storefront and admin!_
+**Note:** This repo only contains the backend server for Medusa, to create a full Medusa powered e-commerce store you will also need a storefront and admin both of which can be hosted on <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
-Medusa admin repo: <a href="https://github.com/medusajs/admin" target="_blank" rel="noopener">https://github.com/medusajs/admin</a>
+### Repos
+
+Medusa admin: <a href="https://github.com/medusajs/admin" target="_blank" rel="noopener">https://github.com/medusajs/admin</a>
 Gatsby storefront starter: <a href="https://github.com/medusajs/gatsby-starter-medusa" target="_blank" rel="noopener">https://github.com/medusajs/gatsby-starter-medusa</a>
+Next.js storefront starter: <a href="https://github.com/medusajs/nextjs-starter-medusa" target="_blank" rel="noopener">https://github.com/medusajs/nextjs-starter-medusa</a>
 
-<br />
-
-**Full Documentation:**
+### Full Documentation
 
 Medusa's docs: <a href="https://docs.medusajs.com" target="_blank" rel="noopener">https://docs.medusajs.com</a>
 Railway's docs: <a href="https://docs.railway.app" target="_blank" rel="noopener">https://docs.railway.app</a>
-
-</div>

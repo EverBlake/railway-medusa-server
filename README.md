@@ -17,7 +17,7 @@ Build a headless e-commerce store the open-source way with Medusa (the open-sour
 
 Deploy your own Medusa server by clicking this button:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/_kH-rG?referralCode=QB7L2P)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/0DaHVH?referralCode=QB7L2P)
 
 <br />
 

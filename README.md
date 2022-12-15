@@ -83,10 +83,13 @@ For the Medusa docs explaining this setup (without this template) see: <a href="
 ### Repos
 
 Medusa admin: <a href="https://github.com/medusajs/admin" target="_blank" rel="noopener">https://github.com/medusajs/admin</a>
+
 Gatsby storefront starter: <a href="https://github.com/medusajs/gatsby-starter-medusa" target="_blank" rel="noopener">https://github.com/medusajs/gatsby-starter-medusa</a>
+
 Next.js storefront starter: <a href="https://github.com/medusajs/nextjs-starter-medusa" target="_blank" rel="noopener">https://github.com/medusajs/nextjs-starter-medusa</a>
 
 ### Full Documentation
 
 Medusa's docs: <a href="https://docs.medusajs.com" target="_blank" rel="noopener">https://docs.medusajs.com</a>
+
 Railway's docs: <a href="https://docs.railway.app" target="_blank" rel="noopener">https://docs.railway.app</a>
